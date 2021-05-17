@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "5faaa709ed6d492c8e677061"
+  },
+  "name": "The Rittenhouse",
+  "pricePerNight": 220,
+  "address": {
+    "city": "Philadelphia",
+    "country": "USA"
+  },
+  "reviews": [
+    {
+      "userName": "Maria",
+      "rating": 8,
+      "approved": false
+    },
+    {
+      "userName": "Mark",
+      "rating": 7,
+      "approved": true
+    }
+  ],
+  "_class": "com.hotel.entity.Hotel"
+},{
+  "_id": {
+    "$oid": "5faaa709ed6d492c8e677062"
+  },
+  "name": "Archipelagos",
+  "pricePerNight": 160,
+  "address": {
+    "city": "Mykonos",
+    "country": "Greece"
+  },
+  "reviews": [
+    {
+      "userName": "Karl",
+      "rating": 9,
+      "approved": true
+    },
+    {
+      "userName": "Ben",
+      "rating": 10,
+      "approved": true
+    },
+    {
+      "userName": "Simon",
+      "rating": 7,
+      "approved": false
+    }
+  ],
+  "_class": "com.hotel.entity.Hotel"
+},{
+  "_id": {
+    "$oid": "5faaa709ed6d492c8e677063"
+  },
+  "name": "d'Angleterre",
+  "pricePerNight": 90,
+  "address": {
+    "city": "Geneva",
+    "country": "Switzerland"
+  },
+  "reviews": [],
+  "_class": "com.hotel.entity.Hotel"
+},{
+  "_id": {
+    "$oid": "5faaa709ed6d492c8e677064"
+  },
+  "name": "Rosewood San Miguel de Allende",
+  "pricePerNight": 110,
+  "address": {
+    "city": "San Miguel de Allende",
+    "country": "Mexico"
+  },
+  "reviews": [
+    {
+      "userName": "Anna",
+      "rating": 10,
+      "approved": true
+    },
+    {
+      "userName": "Mario",
+      "rating": 6,
+      "approved": true
+    },
+    {
+      "userName": "Tony",
+      "rating": 8,
+      "approved": false
+    }
+  ],
+  "_class": "com.hotel.entity.Hotel"
+},{
+  "_id": {
+    "$oid": "5faaa709ed6d492c8e677065"
+  },
+  "name": "Faena Hotel Miami Beach",
+  "pricePerNight": 240,
+  "address": {
+    "city": "Miami",
+    "country": "USA"
+  },
+  "reviews": [
+    {
+      "userName": "John",
+      "rating": 10,
+      "approved": true
+    },
+    {
+      "userName": "Christina",
+      "rating": 9,
+      "approved": true
+    },
+    {
+      "userName": "Clara",
+      "rating": 8,
+      "approved": false
+    },
+    {
+      "userName": "Nathan",
+      "rating": 10,
+      "approved": false
+    }
+  ],
+  "_class": "com.hotel.entity.Hotel"
+}]
